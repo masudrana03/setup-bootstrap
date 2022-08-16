@@ -1,0 +1,6 @@
+## -- set on Bootstrap -5 -- ##
+
+*addon for setup with bootstrap 
+    => jquery
+    => fontawesome
+    
